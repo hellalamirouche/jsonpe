@@ -1,0 +1,13 @@
+{
+    "questions": [
+      {"category": "indemnisation", "question": "Quelle est la durée maximale d'indemnisation chômage ?", "answer": "La durée maximale d'indemnisation chômage est généralement de 36 mois."},
+      {"category": "indemnisation", "question": "Comment déclarer une reprise d'activité pendant la période de chômage ?", "answer": "Vous pouvez déclarer une reprise d'activité en mettant à jour votre situation sur votre espace personnel Pôle Emploi en ligne."},
+      {"category": "indemnisation", "question": "Quelles sont les conséquences d'une déclaration tardive sur mes indemnités ?", "answer": "Une déclaration tardive peut entraîner une suspension temporaire de vos indemnités. Il est important de signaler tout changement rapidement."},
+      {"category": "placement", "question": "Pôle Emploi propose-t-il des services d'orientation professionnelle ?", "answer": "Oui, Pôle Emploi propose des services d'orientation professionnelle pour vous aider à définir votre projet professionnel."},
+      {"category": "placement", "question": "Comment participer à des salons de l'emploi organisés par Pôle Emploi ?", "answer": "Vous pouvez trouver les informations sur les salons de l'emploi sur le site de Pôle Emploi et vous inscrire en ligne."},
+      {"category": "placement", "question": "Quels sont les avantages du réseau professionnel Viadeo pour la recherche d'emploi ?", "answer": "Viadeo peut vous permettre de créer des contacts professionnels, de suivre l'actualité de votre secteur et de découvrir des opportunités d'emploi."},
+      {"category": "création d'entreprise", "question": "Quelles sont les principales erreurs à éviter lors de la création d'une entreprise ?", "answer": "Évitez de négliger la planification financière, de sous-estimer la concurrence et de ne pas effectuer une étude de marché approfondie."},
+      {"category": "création d'entreprise", "question": "Y a-t-il des incitations fiscales pour les entreprises novatrices ?", "answer": "Certaines régions offrent des incitations fiscales pour les entreprises novatrices. Consultez les organismes locaux pour en savoir plus."},
+      {"category": "création d'entreprise", "question": "Comment protéger juridiquement la propriété intellectuelle de mon entreprise ?", "answer": "Vous pouvez protéger la propriété intellectuelle en déposant des brevets, des marques ou des droits d'auteur selon la nature de votre création."}
+    ]
+  }
